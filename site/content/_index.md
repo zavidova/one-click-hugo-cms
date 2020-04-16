@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "Hello world"
 subtitle: This is a subtitle
 image: /img/home-jumbotron.jpg
@@ -9,7 +8,7 @@ blurb:
 intro:
     heading: "Why you should hire me"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-=======
+
 title: Hello world
 subtitle: This is a subtitle
 image: img/anna_book.jpg
