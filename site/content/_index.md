@@ -1,5 +1,5 @@
 ---
-title: "Hello world"
+title: "Hello"
 subtitle: This is a subtitle
 image: /img/home-jumbotron.jpg
 blurb:
